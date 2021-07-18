@@ -6,7 +6,7 @@
 
 
 这是一个简单的模组服务器，有以下主要模组，点击对应文字即可跳转到mcmod界面。
-* 工业2(https://wiki.aowudalu.cn/#/en-us/)
+* 工业2(https://www.mcmod.cn/class/2.html)
 * 神秘时代6(https://www.mcmod.cn/class/956.html)
 * 植物魔法(https://www.mcmod.cn/class/332.html)
 * 应用能源2(https://www.mcmod.cn/class/260.html)
