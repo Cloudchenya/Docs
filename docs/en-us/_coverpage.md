@@ -1,8 +1,8 @@
-# ZMusic
+# Aowu Mainland Official Documents
 
-> Full-featured Minecraft song play plugin
+> Minecraft wailing mainland server
 
-[Github](https://github.com/RealHeart/ZMusic)
-[Getting Started](#ZMusic)
+[Github](https://github.com/aowudalu/Docs)
+[View Document](#Aowu Mainland Official Document)
 
 ![](http://api.zhenxin.xyz/acg/url)
