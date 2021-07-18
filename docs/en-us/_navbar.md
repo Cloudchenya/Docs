@@ -1,8 +1,9 @@
 * Language
-  * [:cn: 中文 (中国)](/zh-cn/)
-  * [:us: English (United States)](/en-us/)
+   * [:cn: Chinese (China)](/zh-cn/)
+   * [:us: English (United States)](/en-us/)
 
-* [Blog](https://www.zhenxin.xyz)
-* [Telegram](https://t.me/ZMusicChannel)
-* [SpigotMC](https://www.spigotmc.org/resources/zmusic.83027/)
-* [Latest Build](https://ci.zhenxin.xyz/job/Minecraft/job/ZMusic/lastSuccessfulBuild/)
+* [Official website](https://www.aowudalu.cn/)
+* [Exchange Group](https://jq.qq.com/?_wv=1027&k=oRUJzj0b)
+* [Skin Station](https://aowudalu.cn/)
+* [Client Download](https://download.aowudalu.cn/)
+* [Skin station api](https://aowudalu.cn/api/yggdrasil)
