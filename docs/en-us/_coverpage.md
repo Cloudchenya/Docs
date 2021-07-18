@@ -3,6 +3,6 @@
 > Minecraft wailing mainland server
 
 [Github](https://github.com/aowudalu/Docs)
-[View Document](#Aowu Mainland Official Document)
+[View Document](#嗷呜大陆官方文档)
 
 ![](http://api.zhenxin.xyz/acg/url)
